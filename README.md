@@ -62,6 +62,7 @@ After running the final cell, a local web UI launches. Select demographic inputs
 ├── Student_Exam_Performance.csv
 ├── LICENSE
 ├── .gitignore
+├── requirements.txt
 └── README.md
 ```
 
